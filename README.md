@@ -104,7 +104,3 @@ const passwordPattern = /^(?=[A-Z])(?=.*?\d.*?\d)(?=.*?[!@#$%^&*])(?=.{8,32}$)/;
 - HTML5
 - CSS3
 - Vanilla JavaScript
-
-```bash
-git clone https://github.com/h-othman1515/<repo-name>.git
-```
